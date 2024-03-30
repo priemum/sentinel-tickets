@@ -8,7 +8,7 @@ const {
   ticketsDB,
   sanitizeInput,
   logMessage,
-  saveTranscript,
+  saveTranscript,   
   saveTranscriptTxt,
   checkSupportRole,
   configEmbed,
